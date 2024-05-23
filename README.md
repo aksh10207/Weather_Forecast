@@ -19,10 +19,10 @@ Welcome to the Weather Android App! This application allows you to get real-time
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/aksh10207/Weather_Forecast.git
+   git clone https://github.com/aksh10207/Weather_Forecast.git
 2. Open the project in Android Studio.
 3. Build the project to install all dependencies.
-4. Run the app on an emulator or physical device.  
+4. Run the app on an emulator or physical device  
 
 ## Usage
 1. Open the app.
